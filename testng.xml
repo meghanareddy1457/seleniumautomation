@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.scripts.actitime.testactitime"/>
+      <class name="com.scripts.actitime.test2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
